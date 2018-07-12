@@ -1,0 +1,31 @@
+.searchb
+{
+    margin-left: 1000px;
+}
+.container_c
+{
+    margin:60px;
+}
+.search_numname
+{
+    width: 250px;
+    margin-top: 10px;
+}
+.market
+{
+    margin-left:  30px;
+}
+.region
+{
+    margin-left:  30px;
+}
+.coop
+{
+    margin-left:  30px;
+}
+
+.searchtable
+{
+    background-color: rgb(105, 104, 104);
+    visibility: hidden;
+} 
